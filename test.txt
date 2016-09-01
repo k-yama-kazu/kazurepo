@@ -1,2 +1,4 @@
 ヤマモトのGitコマンド
 add new
+add nanka
+huyasimasita
