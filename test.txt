@@ -8,4 +8,11 @@ add new
 add nanka
 huyasimasita
 a
+<<<<<<< 4bab9ef01e9020185b2e08788dd165097342f313
 >>>>>>> あああ
+=======
+
+lo
+
+omaeeeeeee
+>>>>>>> ああああ
